@@ -5,8 +5,7 @@ class App < Sinatra::Base
 	end
 	
 	get '/goodbye'
-	
-	erb :paj
+		erb :paj
 	end 
 
 
