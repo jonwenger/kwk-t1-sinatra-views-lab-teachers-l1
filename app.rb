@@ -8,5 +8,4 @@ class App < Sinatra::Base
 		erb :paj
 	end 
 
-
 end
